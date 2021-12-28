@@ -35,5 +35,5 @@ washington.csv - Dataset containing all bikeshare information for the city of Wa
 Language: Python 3.6 or above
 Libraries: pandas, numpy, time
 
-
-
+### Credits
+All the amazing people at vaquita.tech 
