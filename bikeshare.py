@@ -92,7 +92,6 @@ def load_data(city, month, day):
         day_filter = day_list.index(day)
         df = df[df['day_of_week'] == day_filter]        
 
-    print("city is {}, month is {}, day is {}".format(city, month, day)) 
     return df
     
 def time_stats(df):
