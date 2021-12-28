@@ -2,7 +2,7 @@
 28th of December 2021
 
 ### Project Title
-Bikeshare Project
+Bikeshare Data Analysis Project
 
 ### Description
 The program would take user input for the city (e.g. Chicago), month for which the user wants to view data (e.g. January; also includes an 'all' option), and day for which the user wants to view data (e.g. Monday; also includes an 'all' option).
